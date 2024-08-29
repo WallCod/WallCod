@@ -3,6 +3,10 @@
 ### Hi! I'm Wallax
 
 <div>
+  <a href="https://x.com/black14691" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
+  target="_blank">
+
   <a href="https://www.instagram.com/wallaxsf?igsh=ZzFwOWJsZjlhd2oz" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -11,11 +15,23 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  </div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
  
 - God 🙏
 - Lyon 🦁
 - UNIFATECIE - Computer Engineer 📚  
-- AWARI - Full-Stack Developer | SQL | Python 📚 
+- AWARI - Full-Stack Developer | SQL | Python 📚
+
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=WallCod&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
 
 <div align="center">
 
@@ -39,9 +55,5 @@
   <img align="center" alt="MYSQL" height="55" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 
 </div>
-
-
-
-
 
 
