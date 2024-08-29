@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<h2 align="center">Hi, I'm Wallax.></h2>
+<h2 align="center">Hi, I'm Wallax.</h2>
 
-<div>
+<div align="center">
   <a href="https://x.com/black14691" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
   target="_blank">
