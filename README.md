@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-### Hi! I'm Wallax
+<h2 align="center">Hi, I'm Wallax.></h2>
 
 <div>
   <a href="https://x.com/black14691" target="_blank">
