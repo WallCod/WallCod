@@ -1,6 +1,12 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<h2 align="center">Hi, I'm Wallax.</h2>
+
+<p align="center"> 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%23FDB927&size=26&center=true&vCenter=true&width=650&lines=Hi+%2C+I'm+Wallax+." alt="Typing SVG" />
+
+</p>
+
 
 <div align="center">
   <a href="https://x.com/black14691" target="_blank">
