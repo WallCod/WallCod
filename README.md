@@ -26,6 +26,7 @@
 - Lyon 🦁
 - UNIFATECIE - Computer Engineer 📚  
 - AWARI - Full-Stack Developer | SQL | Python 📚
+- Ethical Hacker | NetSec Engineer
 
 <h3 align="center">🔥   My Stats </h3>
 
