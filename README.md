@@ -24,6 +24,7 @@
 
 - God 🙏
 - Lyon 🦁
+- CEO & Founder - AlphaLabs 🦁 - www.alphalabs.lat
 - UNIFATECIE - Computer Engineer 📚  
 - AWARI - Full-Stack Developer | SQL | Python 📚
 - Ethical Hacker | NetSec Engineer
