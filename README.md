@@ -27,7 +27,8 @@
 - CEO & Founder - AlphaLabs 🦁 - www.alphalabs.lat
 - UNIFATECIE - Computer Engineer 📚  
 - AWARI - Full-Stack Developer | SQL | Python 📚
-- Ethical Hacker | NetSec Engineer
+- Ethical Hacker | NetSec Engineer 🛠️
+- Growth Hacker 🎯
 
 <h3 align="center">🔥   My Stats </h3>
 
