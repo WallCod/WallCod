@@ -42,7 +42,7 @@
 
   <a href="https://github.com/WallCod">
 
-  <img height="180em" src="https://gitpoint.mohitk05.repl.co/api/top-langs?username=WallCod&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=WallCod&layout=compact&langs_count=7&theme=tokyonight"/>
   <br/>
 
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
