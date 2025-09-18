@@ -42,7 +42,7 @@
 
   <a href="https://github.com/WallCod">
 
-  <img height="180em" src="https://api.github-trends.info/widget/@WallCod?theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WallCod&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats Card" />
   <br/>
 
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
