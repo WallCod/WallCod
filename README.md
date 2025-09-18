@@ -42,7 +42,7 @@
 
   <a href="https://github.com/WallCod">
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WallCod&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://api.github-trends.info/widget/@WallCod?theme=dark"/>
   <br/>
 
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
