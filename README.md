@@ -42,7 +42,7 @@
 
   <a href="https://github.com/WallCod">
 
-<img src="https://wallcod-stats.vercel.app/api/top-langs/?username=WallCod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Card" />  <br/>
+<img src="https://github-profile-trophy.vercel.app/?username=WallCod&theme=dark" alt="GitHub Trophies" />  <br/>
 
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
