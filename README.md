@@ -44,7 +44,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallCod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Card" />  <br/>
 
-  ## Minhas Habilidades
+  ## My Skills
 
 #### Principais:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
