@@ -1,12 +1,8 @@
 <h1 align="center"> Hey 👋 What's up?</h1>
 
-
-<p align="center"> 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%23FDB927&size=26&center=true&vCenter=true&width=650&lines=Hi+%2C+I'm+Wallax" alt="Typing SVG" />
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%23FDB927&size=26&center=true&vCenter=true&width=650&lines=Hi+%2C+I'm+Wallax;Full-Stack+Developer;Ethical+Hacker;Security+Engineer" alt="Typing SVG" />
 </p>
-
 
 <div align="center">
   <a href="https://x.com/black14691" target="_blank">
@@ -19,16 +15,155 @@
 
   <a href="https://www.linkedin.com/in/wallax-figueiredo-41116b285/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
  </div>
+
+## About Me
 
 - God 🙏
 - Lyon 🦁
 - CEO & Founder - AlphaLabs 🦁 - www.alphalabs.lat
-- UNIFATECIE - Computer Engineer 📚  
+- UNIFATECIE - Computer Engineer 📚
 - AWARI - Full-Stack Developer | SQL | Python 📚
 - Ethical Hacker | NetSec Engineer 🛠️
 - Growth Hacker 🎯
+
+---
+
+## 🚀 WallCod Portfolio & API
+
+This repository contains a complete full-stack application showcasing modern web development practices, security implementations, and professional architecture.
+
+### ✨ Features
+
+- 🔐 **JWT Authentication** - Secure user authentication with refresh tokens
+- 🛡️ **Security First** - Input validation, rate limiting, CSRF protection, XSS prevention
+- 📊 **RESTful API** - FastAPI with auto-generated OpenAPI documentation
+- ⚡ **High Performance** - Redis caching, optimized database queries
+- 🧪 **Well Tested** - Unit tests, integration tests, security tests
+- 🐳 **Containerized** - Full Docker support with Docker Compose
+- 🔄 **CI/CD Ready** - GitHub Actions workflows for automated testing and deployment
+- 📱 **Responsive Design** - Mobile-first Next.js frontend with Tailwind CSS
+
+### 🛠️ Tech Stack
+
+**Backend:**
+- FastAPI (Python 3.11)
+- PostgreSQL
+- Redis
+- SQLAlchemy
+- Alembic (migrations)
+- JWT Authentication
+- Pytest
+
+**Frontend:**
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- SWR
+- Zustand
+- React Hook Form + Zod
+
+**DevOps:**
+- Docker & Docker Compose
+- GitHub Actions
+- Security scanning (Trivy, Bandit, Safety)
+- Performance testing (Lighthouse, Locust)
+
+### 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/WallCod/WallCod.git
+cd WallCod
+
+# Run setup script
+chmod +x scripts/setup.sh
+./scripts/setup.sh
+
+# Or manually with Docker
+docker-compose -f docker-compose.dev.yml up -d
+```
+
+**Access the application:**
+- Frontend: http://localhost:3000
+- Backend API: http://localhost:8000
+- API Docs: http://localhost:8000/docs
+
+### 📖 Documentation
+
+Complete documentation available in the [docs/](./docs) directory:
+
+- [Getting Started Guide](./docs/getting-started.md)
+- [Architecture Documentation](./docs/README.md)
+- [Security Best Practices](./docs/security.md)
+
+### 🧪 Running Tests
+
+```bash
+# Run all tests
+./scripts/test.sh
+
+# Backend only
+./scripts/test.sh --backend-only
+
+# With coverage
+./scripts/test.sh --coverage
+
+# Security checks
+./scripts/test.sh --security
+```
+
+### 🏗️ Project Structure
+
+```
+WallCod/
+├── backend/           # FastAPI application
+│   ├── app/
+│   │   ├── api/      # API endpoints
+│   │   ├── core/     # Configuration & security
+│   │   ├── models/   # Database models
+│   │   ├── schemas/  # Pydantic schemas
+│   │   └── tests/    # Test suite
+│   └── Dockerfile
+├── frontend/         # Next.js application
+│   ├── src/
+│   │   ├── app/     # Pages & routing
+│   │   ├── components/ # React components
+│   │   └── lib/     # Utilities
+│   └── Dockerfile
+├── .github/
+│   └── workflows/   # CI/CD pipelines
+├── docs/            # Documentation
+└── scripts/         # Utility scripts
+```
+
+### 🔒 Security
+
+This project implements security best practices:
+
+- Password hashing with bcrypt
+- JWT token authentication
+- Rate limiting
+- Input validation & sanitization
+- CORS configuration
+- Security headers
+- SQL injection prevention
+- XSS protection
+- CSRF tokens
+- Automated security scanning
+
+See [Security Documentation](./docs/security.md) for details.
+
+### 📝 License
+
+MIT License - See LICENSE file for details.
+
+### 🤝 Contributing
+
+Contributions are welcome! Please read the contributing guidelines in the docs.
+
+---
 
 <h3 align="center">🔥   My Stats </h3>
 
