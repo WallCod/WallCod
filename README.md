@@ -33,12 +33,12 @@
 <h3 align="center">🔥   My Stats </h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallCod&theme=radical&hide_border=true" height="170" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=WallCod&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=WallCod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WallCod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallCod&theme=radical&hide_border=true&layout=compact" alt="languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallCod&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
   ## My Skills
