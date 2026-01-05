@@ -33,23 +33,13 @@
 <h3 align="center">🔥   My Stats </h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallCod&theme=dark&hide_border=false" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=WallCod&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallCod&theme=radical&hide_border=true" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WallCod&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph" />
 </div>
-
-<br/>
 
 <div align="center">
-  <a href="https://github.com/WallCod">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallCod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Card" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallCod&theme=radical&hide_border=true&layout=compact" alt="languages" />
 </div>
-
-<<<<<<< HEAD
-<br/>
-=======
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallCod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Card" />  <br/>
->>>>>>> 3637cd84756933a0d0b9449d1aa48c105a18c81b
 
   ## My Skills
 
