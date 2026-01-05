@@ -33,12 +33,12 @@
 <h3 align="center">🔥   My Stats </h3>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app?user=WallCod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WallCod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WallCod&show_icons=true&count_private=true&hide_border=true&title_color=FDB927&icon_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WallCod&layout=compact&hide_border=true&title_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WallCod&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=WallCod&custom_title=Contribution%20Graph&bg_color=0d1117&color=FDB927&line=FDB927&point=c9d1d9&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
   ## My Skills
