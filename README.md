@@ -45,7 +45,11 @@
   </a>
 </div>
 
+<<<<<<< HEAD
 <br/>
+=======
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallCod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Card" />  <br/>
+>>>>>>> 3637cd84756933a0d0b9449d1aa48c105a18c81b
 
   ## My Skills
 
