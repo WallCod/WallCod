@@ -33,12 +33,13 @@
 <h3 align="center">🔥   My Stats </h3>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WallCod&show_icons=true&count_private=true&hide_border=true&title_color=FDB927&icon_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WallCod&layout=compact&hide_border=true&title_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WallCod&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=FDB927&icon_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=WallCod&hide_border=true&background=0d1117&ring=FDB927&fire=FDB927&currStreakLabel=FDB927&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=WallCod&custom_title=Contribution%20Graph&bg_color=0d1117&color=FDB927&line=FDB927&point=c9d1d9&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WallCod&layout=compact&hide_border=true&title_color=FDB927&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=WallCod&custom_title=Contribution%20Graph&bg_color=0d1117&color=FDB927&line=FDB927&point=c9d1d9&area_color=0d1117&area=true&hide_border=true&height=195" alt="Contribution Graph" />
 </div>
 
   ## My Skills
