@@ -33,8 +33,8 @@
 <h3 align="center">🔥   My Stats </h3>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WallCod&show_icons=true&count_private=true&hide_border=true&title_color=FDB927&icon_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WallCod&layout=compact&hide_border=true&title_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://wall-readme-stats.onrender.com/api?username=WallCod&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=FDB927&icon_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://wall-readme-stats.onrender.com/api/top-langs/?username=WallCod&layout=compact&hide_border=true&title_color=FDB927&text_color=c9d1d9&bg_color=0d1117&langs_count=8&count_private=true" alt="Top Languages" />
 </div>
 
 <div align="center">
