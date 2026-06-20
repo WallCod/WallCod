@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋 What's up?</h1>
+<h1 align="center"> Hey <img src="assets/images/wave.gif" width="30" alt="wave">  What's up?</h1>
 
 
 <p align="center"> 
@@ -28,7 +28,6 @@
 - UNIFATECIE - Computer Engineer 📚  
 - AWARI - Full-Stack Developer | SQL | Python 📚
 - Ethical Hacker | NetSec Engineer 🛠️
-- Growth Hacker 🎯
 
 <h3 align="center">🔥   My Stats </h3>
 
