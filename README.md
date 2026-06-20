@@ -1,4 +1,4 @@
-<h1 align="center"> Hey <img src="assets/images/wave.gif" width="30" alt="wave">  What's up?</h1>
+<h1 align="center"> Hey <img src="assets/wave.gif" width="30" alt="wave">  What's up?</h1>
 
 
 <p align="center"> 
