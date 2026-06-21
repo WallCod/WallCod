@@ -28,11 +28,14 @@ What's up?</h1>
   </a> 
  </div>
 
-<p align="center">
-  God 🙏 &nbsp;|&nbsp; Lyon 🦁 &nbsp;|&nbsp; CEO & Founder - AlphaLabs 🦁 - www.alphalabs.fyi <br/>
-  UNIFATECIE - Computer Engineer 📚 &nbsp;|&nbsp; AWARI - Full-Stack Developer | SQL | Python 📚 <br/>
-  Ethical Hacker | NetSec Engineer 🛠️
-</p>
+<br/>
+
+<p align="center">God 🙏</p>
+<p align="center">Lyon 🦁</p>
+<p align="center">CEO & Founder - AlphaLabs 🦁 - www.alphalabs.fyi</p>
+<p align="center">UNIFATECIE - Computer Engineer 📚</p>
+<p align="center">AWARI - Full-Stack Developer | SQL | Python 📚</p>
+<p align="center">Ethical Hacker | NetSec Engineer 🛠️</p>
 
 <h3 align="center">🔥   My Stats </h3>
 
