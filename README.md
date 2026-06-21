@@ -43,6 +43,12 @@ What's up?</h1>
 </div>
 
 <div align="center">
+  <a href="https://github.com/WallCod" target="_blank">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wallax's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=WallCod&theme=tokyonight&background=0d1117&stroke=FDB927&ring=FDB927&fire=FDB927&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="162px"/>
+  </a>
+</div>
+
+<div align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=WallCod&custom_title=Contribution%20Graph&bg_color=0d1117&color=FDB927&line=FDB927&point=c9d1d9&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
