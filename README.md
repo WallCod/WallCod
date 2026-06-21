@@ -30,12 +30,14 @@ What's up?</h1>
 
 <br/>
 
-<p align="center">God 🙏</p>
-<p align="center">Lyon 🦁</p>
-<p align="center">CEO & Founder - AlphaLabs 🦁 - www.alphalabs.fyi</p>
-<p align="center">UNIFATECIE - Computer Engineer 📚</p>
-<p align="center">AWARI - Full-Stack Developer | SQL | Python 📚</p>
-<p align="center">Ethical Hacker | NetSec Engineer 🛠️</p>
+<p align="center">
+  God 🙏 <br/>
+  Lyon 🦁 <br/>
+  CEO & Founder - AlphaLabs 🦁 - www.alphalabs.fyi <br/>
+  UNIFATECIE - Computer Engineer 📚 <br/>
+  AWARI - Full-Stack Developer | SQL | Python 📚 <br/>
+  Ethical Hacker | NetSec Engineer 🛠️
+</p>
 
 <h3 align="center">🔥   My Stats </h3>
 
